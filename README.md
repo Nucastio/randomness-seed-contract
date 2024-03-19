@@ -1,0 +1,1 @@
+# randomness-seed-contract
